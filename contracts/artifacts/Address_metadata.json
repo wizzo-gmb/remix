@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Magos.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Magos.sol": {
+			"keccak256": "0x0e80979b1c34083ec02273ebefa7163ef394b27513a1ea8780b784d50c69f7d8",
+			"license": "MIT AND GPL-3.0",
+			"urls": [
+				"bzz-raw://1fd22191ea9d8891252e6022b67626f1620ba103ba5e655fe162698565610af3",
+				"dweb:/ipfs/QmdJVngr7KQGCD1E5ZVivnX62goThECro4p3tPViumxGtN"
+			]
+		}
+	},
+	"version": 1
+}
